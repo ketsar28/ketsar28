@@ -44,7 +44,7 @@ I am highly motivated to explore innovative techniques and continuously grow in 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
   </a>
   <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> 
+     <img alt="scikit-learn" width="40" height="40" src="https://github.com/user-attachments/assets/ac567586-5397-447a-8e9f-95c264425d1d" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
