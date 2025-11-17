@@ -111,13 +111,33 @@ I'm constantly exploring new technologies and methodologies to solve challenging
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ketsar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketsar28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+### 📊 Performance Metrics
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ketsar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketsar28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketsar28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ketsar28&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+### 💻 Language Distribution & Contributions
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketsar28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=ketsar28&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -152,11 +172,46 @@ I'm constantly exploring new technologies and methodologies to solve challenging
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketsar28&repo=ketsar28&theme=tokyonight&hide_border=true)](https://github.com/ketsar28/ketsar28)
+### 🚀 Highlighted Repositories
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ketsar28/ketsar28">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketsar28&repo=ketsar28&theme=tokyonight&hide_border=true" alt="Profile Repository" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <p><i>More exciting projects coming soon!</i></p>
+      <p>🔍 Explore my repositories for data science and ML projects</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-> *Check out my repositories for more exciting data science and machine learning projects!*
+---
+
+## 📜 Data Science Wisdom
+
+<div align="center">
+
+### 💭 Quotes from the Experts
+
+*"In God we trust. All others must bring data."*  
+**— W. Edwards Deming** (Statistician & Quality Control Expert)
+
+---
+
+*"The goal is to turn data into information, and information into insight."*  
+**— Carly Fiorina** (Former CEO of HP)
+
+---
+
+*"Without data, you're just another person with an opinion."*  
+**— W. Edwards Deming**
+
+</div>
 
 ---
 
@@ -172,19 +227,11 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-## 📜 Random Dev Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🎓 "The science of today is the technology of tomorrow."
 
-</div>
-
----
-
-<div align="center">
-
-### 🎓 "Continuous learning is the key to staying relevant in the ever-evolving world of data science."
+**— Edward Teller** (Physicist & Mathematician)
 
 </div>
 
