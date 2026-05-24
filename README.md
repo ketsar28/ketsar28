@@ -117,23 +117,7 @@ I'm constantly exploring new technologies and methodologies to solve challenging
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ketsar28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketsar28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-### 💻 Language Distribution & Contributions
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketsar28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=ketsar28&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
     </td>
   </tr>
 </table>
@@ -176,11 +160,6 @@ I'm constantly exploring new technologies and methodologies to solve challenging
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/ketsar28/ketsar28">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ketsar28&repo=ketsar28&theme=tokyonight&hide_border=true" alt="Profile Repository" />
-      </a>
-    </td>
     <td align="center" width="50%">
       <p><i>More exciting projects coming soon!</i></p>
       <p>🔍 Explore my repositories for data science and ML projects</p>
